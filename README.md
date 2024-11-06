@@ -1,5 +1,4 @@
 # Mars_Challenge
-# Mars-Challenge
 ## Part 1: Scrape Titles and Preview Text from Mars News
 This project scrapes titles and preview text from Mars News articles using Python.The scraper accesses the Mars News website, extracts article titles and previews, and stores them in a list of dictionaries, providing a structured way to analyze Mars-related news.Optional: Data can be saved to a JSON file for easy sharing or analysis.
 Prerequisites: Install the following Python packages:
